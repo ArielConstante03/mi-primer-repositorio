@@ -9,22 +9,22 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-Cree mi primer repositorio y la página web del mismo usando GitHub 
+Cloné mi primer repositorio dentro de Visual Studio Code y modifiqué las respuestas preexistentes
  
 ### 😮 ¿Qué es GitHub?
-Es una plataforma 
+Es una plataforma con página web y aplicación que se puede instalar dentro de los equipos.
  
 ### 🎯 ¿Para qué me sirve?
-Sirve para almacenar versiones de archivos, manteniendo elementos o detalles previos que hallan sido modificados o eliminados.
+Me sirve para poder almacenar versiones de archivos o códigos que se van modificando elementos constantemente permitiendo el acceso a detalles previos que hayan sido eliminados o modicados.
  
 ---
  
 ## ✍️ Mi progreso
 Aquí ya realicé varios cambios en GitHub.
- Ya tengo conocimiento pertinente para usar correctamente GitHub
+ Cloné mi primer repositorio donde respondí las preguntas con una mayor dedicación
 ---
  
 ## 👤 Sobre mí
 Nombre: Roberto Ariel Constante Torres
-Curso: PD 1 
+Curso: PD 1
  
