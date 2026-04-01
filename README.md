@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Cambio definitivio
+=======
+Visual Studio Code carga
+>>>>>>> 4c190bcd3958c1acf6891c37133111cbfffc7f16
 # 🚀 Mi primer repositorio en GitHub
  
 ## 👋 Bienvenido
